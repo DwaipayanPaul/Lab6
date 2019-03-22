@@ -22,7 +22,7 @@ int Max1(int a, int b)                       //takes two int parameters, finds t
 int Min1(int a, int b)                      //takes two int parameters, finds the min, then returns the minimum
  {
    int s;
-   if(a>b)                                 //checking which is minimum
+   if(a>b)                                 //checking which is minimu
    s=b;  
    else
    s=a;
